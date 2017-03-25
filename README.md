@@ -14,5 +14,6 @@ The namesync application message contains a newline-separated list of name URIs.
 Data name: /com/newspaper/USER/alice/namesync/1
 Data content: 
 
-/com/newspaper/sports/superbowl2017.html
-/com/newspaper/sports/superbowl2017overview.html
+/com/newspaper/sports/superbowl2017.html/%FD1111
+/com/newspaper/sports/superbowl2017overview.html/%FD3333
+
