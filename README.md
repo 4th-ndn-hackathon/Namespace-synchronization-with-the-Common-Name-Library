@@ -11,7 +11,7 @@ Namespace synchronization with the Common Name Library
 
 The namesync application message contains a newline-separated list of name URIs. Example: 
 
-Data name: /`com/newspaper/USER/alice/namesync/com/newspaper/1`
+Data name: `/com/newspaper/USER/alice/namesync/com/newspaper/1`
 
 Data content: 
 
