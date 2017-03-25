@@ -12,7 +12,7 @@ Namespace synchronization with the Common Name Library
 
 The namesync application message contains a JSON with a list of name URIs and a timestamp. Example: 
 
-Data name: `/com/newspaper/USER/alice/namesync/com/newspaper/68945980323/1`
+Data name: `/com/newspaper/USER/alice/namesync/com/newspaper/11894/1`
 
 Data content: 
 
