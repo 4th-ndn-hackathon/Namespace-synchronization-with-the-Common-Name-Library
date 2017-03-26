@@ -1,6 +1,10 @@
 # Namespace-synchronization-with-the-Common-Name-Library
 Namespace synchronization with the Common Name Library
 
+The hackathon code went into the following fork of the Common Name Library which was merged back into the main repository
+
+https://github.com/4th-ndn-hackathon/PyCNL
+
 ## Use case
 
 * A newspaper company at `/com/newspaper`
