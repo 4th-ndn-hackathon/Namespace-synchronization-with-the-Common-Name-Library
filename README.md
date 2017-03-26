@@ -16,8 +16,8 @@ Data name: `/com/newspaper/USER/alice/namesync/com/newspaper/11894/1`
 
 Data content: 
 
-    {'names': ["/com/newspaper/sports/superbowl2017.html/%FD1111",
-               "/com/newspaper/sports/superbowl2017overview.html/%FD3333"], 
+    {'names': ["/com/newspaper/sports/superbowl2017.html/%FD1111/%00",
+               "/com/newspaper/sports/superbowl2017overview.html/%FD3333/%00"], 
      'timestamp': 4553988853 }
     
 
